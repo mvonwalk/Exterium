@@ -248,3 +248,5 @@
     	local phrase = grammar.GenerateString("origin")
     	return phrase
     end
+    
+    return TextGenerator
